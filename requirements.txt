@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+dotenv
+
+# database
+sqlalchemy
+pymysql
+
+# authentication
+passlib[argon2]
+python-jose
+python-multipart
+
+# rag
+langchain-huggingface
+langchain-community
+sentence-transformers
+pypdf
+dotenv
+langchain_chroma 
+
+# frontend
+streamlit

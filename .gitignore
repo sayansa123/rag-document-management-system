@@ -1,0 +1,31 @@
+# ENVIRONMENT VARIABLES
+.env
+.env.*
+
+# PYTHON
+__pycache__/
+*.py[cod]
+*.so
+
+# VIRTUAL ENV
+venv/
+.venv/
+
+# DATABASE
+*.db
+*.sqlite3
+
+# VECTOR DB (Chroma / FAISS)
+chroma_db/
+*.index
+*.pkl
+
+# USER FILES
+uploads/
+
+# STREAMLIT
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
